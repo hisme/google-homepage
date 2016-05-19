@@ -1,0 +1,174 @@
+
+
+header{
+  background-color: #f5f5f5;
+  color: #666666;
+  font-size: 13px;
+  font-weight: lighter;
+  width: 100%;
+}
+
+.heading{
+  height: 50px;
+  width: 75%;
+  display: inline-flex;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+#glogo{
+  width: 90px;
+  height: 30px;
+  margin-bottom: 0;
+  padding-right: 15px;
+  margin-top: 5px;
+}
+
+#searchresults{
+  width: 590px;
+  height: 32px;
+  font-size: 16px;
+}
+
+.heading .material-icons{
+  color: white;
+  background-color: #039be5;
+  padding: 8px;
+  margin: 0px -3px 10px 0px;
+}
+
+.navbar li{
+  margin-right: -3px;
+}
+
+/* upper container */
+.container-upper{
+  width: auto;
+  height: 40px;
+}
+
+.container-upper ul{
+  margin-left: 55px;
+}
+
+.container-upper li{
+  margin-left: 40px;
+  margin-top: 10px;
+}
+
+.container-upper a{
+  text-decoration: none;
+  color: #666666;
+  font-weight: 500;
+}
+
+.container-upper a:hover{
+  color: #222;
+}
+
+/* Right side of upper container*/
+
+.r{
+  float: right;
+  margin-top: -40px;
+  margin-right: 20px;
+  width: 200px;
+  display: inline-flex;
+}
+
+.r .material-icons{
+  font-size: 20px;
+  background-color: #f5f5f5;
+  color: #666666;
+  padding: 3px 30px;
+  border-radius: 1px;
+}
+
+.rclose .material-icons {
+  margin-left: -3px;
+  padding: 3px 10px;
+  box-shadow: .2px .2px #999999 inset;
+}
+
+hr{
+   border: 0;
+   height: 0;
+   border-top: 1px solid rgba(0, 0, 0, 0.1);
+   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* search results */
+.container{
+  margin-left: 12%;
+  width: 50%;
+}
+
+
+
+h3 a{
+  color: #1a0dab;
+  font-size: 18px;
+  font: arial regular;
+  letter-spacing: .1px;
+  font-weight: lighter;
+}
+
+h3 a:hover{
+  text-decoration: underline;
+}
+
+.link{
+  font:Arial Regular;
+  font-size: 14;
+  color: #006621;
+  margin-top: 0;
+  margin: -15px 0px -10px 0px;
+  font-weight: lighter;
+
+}
+
+.container .p{
+  font:Arial Regular;
+  font-size: 13;
+  color: #545454;
+  font-weight: lighter;
+  letter-spacing: .3px;
+}
+
+.mini, h4{
+  margin-left: 12%;
+  width: 50%;
+}
+
+
+h4{
+  font-size: 16px;
+  color: #666666;
+  font-weight: lighter;
+  letter-spacing: .2px;
+}
+
+
+table{
+  text-align: left;
+  margin-left: 12%;
+  margin-top: -10px;
+}
+
+table a{
+  text-decoration: none;
+  color: #1a0dab;
+  letter-spacing: .2px;
+}
+
+table a:hover{
+  text-decoration: underline;
+}
+
+a strong{
+  font-weight: bold;
+}
+
+td{
+  padding-right: 50px;
+}
